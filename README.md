@@ -8,7 +8,7 @@ Bootstrap 5 ve temel HTML/CSS ile responsive, dinamik olmayan statik bir ön yü
 
 ## 📝 Proje Hakkında
 
-Bu proje, **Neos Yazılım Akademi** kursu kapsamında, **2022** yılında hazırlanmıştır.  
+Bu proje, **Neos Yazılım Akademi** kursu kapsamında, **2022 yılında hazırlanmıştır.  
 Amaç, gerçek bir web sitesinin ana sayfasını frontend olarak birebir yeniden oluşturup, Bootstrap ile responsive tasarım pratikleri yapmaktır.
 
 ---
